@@ -9,13 +9,13 @@ Somos un centro de evaluación e intervención enfocado en la articulación de l
 
 ## Nuestros Focos de Negocio
 
-### 1. [Terapia Psicológica](consultas.html)
+### 1. [Terapia Psicológica](consultas.md)
 Ofrecemos procesos de intervención clínica individualizada bajo el modelo cognitivo-conductual, garantizando un enfoque basado en la evidencia.
 
-### 2. [Psicometría Avanzada e IA](pruebas.html)
+### 2. [Psicometría Avanzada e IA](pruebas.md)
 Desarrollamos arquitecturas para la creación de pruebas psicométricas y bancos de ítems, optimizados mediante algoritmos de inteligencia artificial.
 
-### 3. [Asesorías Metodológicas](asesorias.html)
+### 3. [Asesorías Metodológicas](asesorias.md)
 Brindamos consultoría especializada en diseño metodológico, curación de bases de datos, análisis estadístico aplicado y modelamiento psicométrico para proyectos de investigación y organizaciones.
 
 ---
