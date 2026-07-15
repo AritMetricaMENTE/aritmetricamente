@@ -6,7 +6,7 @@ title: Inicio - AritMetricaMENTE
 <!-- SECCIÓN HERO DE BIENVENIDA (Fondo claro para fusionarse con el logo) -->
 <div style="text-align: center; padding: 50px 20px; background: radial-gradient(circle, #ffffff 0%, #f4f7fc 100%); border-radius: 16px; margin-bottom: 40px; border: 1px solid #e2e8f0; box-shadow: 0 10px 25px rgba(30, 98, 212, 0.05);">
     
-    <!-- CONTENEDOR DEL LOGO (Reemplaza la ruta por tu archivo real) -->
+    <!-- CONTENEDOR DEL LOGO -->
     <img src="/assets/img/Logo_AritMetricaMENTE_Ajustado.jpeg" alt="AritMetricaMENTE Logo" style="max-width: 280px; height: auto; margin-bottom: 20px;" onerror="this.style.display='none';">
     
     <h1 style="color: #0e387a; font-size: 2.4rem; margin-bottom: 15px; font-weight: 800; letter-spacing: -0.5px;">Psicología y Psicometría Basada en la Evidencia</h1>
@@ -22,8 +22,16 @@ title: Inicio - AritMetricaMENTE
     <span style="display: block; width: 60px; height: 4px; background: #1e62d4; margin: 10px auto 0 auto; border-radius: 2px;"></span>
 </h2>
 
-<!-- ESTILOS INTERACTIVOS (Efecto Hover para las tarjetas estáticas) -->
+<!-- ESTILOS INTERACTIVOS Y CONFIGURACIÓN DE REJILLA -->
 <style>
+    /* Fuerza que los 3 servicios se ubiquen en una única fila en pantallas grandes */
+    .services-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+        margin-bottom: 40px;
+    }
+
     .service-card {
         background: white; 
         border: 1px solid #e2e8f0; 
@@ -35,6 +43,7 @@ title: Inicio - AritMetricaMENTE
         flex-direction: column; 
         justify-content: space-between; 
         transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        text-align: center; /* Alinea los textos al centro para armonizar con el logo centrado */
     }
     .service-card:hover {
         transform: translateY(-5px);
@@ -52,6 +61,7 @@ title: Inicio - AritMetricaMENTE
         flex-direction: column; 
         justify-content: space-between; 
         transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        text-align: center; /* Alinea los textos al centro */
     }
     .service-card-highlighted:hover {
         transform: translateY(-5px);
@@ -66,12 +76,19 @@ title: Inicio - AritMetricaMENTE
         display: flex; 
         align-items: center; 
         justify-content: center; 
-        margin-bottom: 20px;
+        margin: 0 auto 20px auto; /* 'margin: 0 auto' centra horizontalmente el contenedor circular */
+    }
+
+    /* Adaptabilidad: Pasa a 1 sola columna vertical en celulares de menos de 800px */
+    @media (max-width: 800px) {
+        .services-grid {
+            grid-template-columns: 1fr;
+        }
     }
 </style>
 
 <!-- GRILLA DE SERVICIOS CON CONTACTOS SEGMENTADOS -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px; margin-bottom: 40px;">
+<div class="services-grid">
 
     <!-- Tarjeta 1: Consulta psicológica (Enfoque: Paciente / Público General) -->
     <div class="service-card">
@@ -84,8 +101,8 @@ title: Inicio - AritMetricaMENTE
         </div>
         <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
             <a href="/consultas.md" style="color: #1e62d4; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
-            <!-- Contacto para Consultas Psicológicas (Ej: WhatsApp Clínico o correo de consulta) -->
-            <a href="mailtoconsultas@aritmetricamente.com?subject=Consulta%20Psicologica" style="color: #475569; text-decoration: none; font-size: 0.85rem; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 6px; background: #f8fafc; font-weight: 500;">Agendar Cita</a>
+            <!-- Contacto para Consultas Psicológicas -->
+            <a href="mailto:consultas@aritmetricamente.com?subject=Consulta%20Psicologica" style="color: #475569; text-decoration: none; font-size: 0.85rem; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 6px; background: #f8fafc; font-weight: 500;">Agendar Cita</a>
         </div>
     </div>
 
@@ -101,7 +118,7 @@ title: Inicio - AritMetricaMENTE
         <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
             <a href="/pruebas.md" style="color: #0e387a; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
             <!-- Contacto corporativo de proyectos / B2B -->
-            <a href="mailtomedicion@aritmetricamente.com?subject=Servicios%20PsicometrIA" style="color: #0e387a; text-decoration: none; font-size: 0.85rem; border: 1px solid #bdf0ff; padding: 6px 12px; border-radius: 6px; background: #edf7ff; font-weight: 500;">Cotizar Proyecto</a>
+            <a href="mailto:medicion@aritmetricamente.com?subject=Servicios%20PsicometrIA" style="color: #0e387a; text-decoration: none; font-size: 0.85rem; border: 1px solid #bdf0ff; padding: 6px 12px; border-radius: 6px; background: #edf7ff; font-weight: 500;">Cotizar Proyecto</a>
         </div>
     </div>
 
