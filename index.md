@@ -93,14 +93,14 @@ title: Inicio - AritMetricaMENTE
     <!-- Tarjeta 1: Consulta psicológica (Enfoque: Paciente / Público General) -->
     <div class="service-card">
         <div>
-            <div class="icon-container">
+            <div class="icon-container" style="background-color: #e0ecff;">
                 <img src="/assets/img/Isotipo_Servicio_Terapia_AritMetricaMENTE.jpeg" alt="Consulta" style="width: 36px; height: 36px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
             </div>
-            <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">1. Terapia Psicológica</h3>
+            <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">1. Consulta Psicológica</h3>
             <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Procesos de intervención clínica individualizada bajo el modelo cognitivo-conductual, garantizando un enfoque riguroso y empático respaldado por la evidencia.</p>
         </div>
         <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-            <a href="/consultas.md" style="color: #1e62d4; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
+            <a href="/consultas.html" style="color: #1e62d4; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
             <!-- Contacto para Consultas Psicológicas -->
             <a href="mailto:consultas@aritmetricamente.com?subject=Consulta%20Psicologica" style="color: #475569; text-decoration: none; font-size: 0.85rem; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 6px; background: #f8fafc; font-weight: 500;">Agendar Cita</a>
         </div>
@@ -112,11 +112,11 @@ title: Inicio - AritMetricaMENTE
             <div class="icon-container" style="background-color: #e0ecff;">
                 <img src="/assets/img/Isotipo_Servicio_Medicion_AritMetricaMENTE.jpeg" alt="PsicometrIA" style="width: 36px; height: 36px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
             </div>
-            <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">2. Psicometría Avanzada e IA</h3>
+            <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">2. PsicometrIA</h3>
             <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Desarrollamos metodologías y arquitecturas de vanguardia para el diseño de pruebas psicométricas y optimización de bancos de ítems a través de algoritmos de inteligencia artificial.</p>
         </div>
         <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-            <a href="/pruebas.md" style="color: #0e387a; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
+            <a href="/pruebas.html" style="color: #0e387a; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
             <!-- Contacto corporativo de proyectos / B2B -->
             <a href="mailto:medicion@aritmetricamente.com?subject=Servicios%20PsicometrIA" style="color: #0e387a; text-decoration: none; font-size: 0.85rem; border: 1px solid #bdf0ff; padding: 6px 12px; border-radius: 6px; background: #edf7ff; font-weight: 500;">Cotizar Proyecto</a>
         </div>
@@ -125,14 +125,14 @@ title: Inicio - AritMetricaMENTE
     <!-- Tarjeta 3: Asesoría (Enfoque: Investigadores y Organizaciones) -->
     <div class="service-card">
         <div>
-            <div class="icon-container">
+            <div class="icon-container" style="background-color: #e0ecff;">
                 <img src="/assets/img/Isotipo_Servicio_Investigacion_AritMetricaMENTE.jpeg" alt="Asesoría" style="width: 36px; height: 36px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
             </div>
             <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">3. Asesorías Metodológicas</h3>
             <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Brindamos consultoría experta en diseño de investigaciones, curación estructurada de bases de datos, análisis estadístico multivariado y modelamiento psicométrico complejo.</p>
         </div>
         <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-            <a href="/asesorias.md" style="color: #1e62d4; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
+            <a href="/asesorias.html" style="color: #1e62d4; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
             <!-- Contacto académico/consultoría -->
             <a href="mailto:asesorias@aritmetricamente.com?subject=Solicitud%20de%20Asesoria%20Metodologica" style="color: #475569; text-decoration: none; font-size: 0.85rem; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 6px; background: #f8fafc; font-weight: 500;">Solicitar Asesoría</a>
         </div>
