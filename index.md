@@ -3,22 +3,27 @@ layout: default
 title: Inicio - AritMetricaMENTE
 ---
 
-<!-- SECCIÓN HERO DE BIENVENIDA (Fondo claro para fusionarse con el logo) -->
-<div style="text-align: center; padding: 50px 20px; background: radial-gradient(circle, #ffffff 0%, #f4f7fc 100%); border-radius: 16px; margin-bottom: 40px; border: 1px solid #e2e8f0; box-shadow: 0 10px 25px rgba(30, 98, 212, 0.05);">
-    
-    <!-- CONTENEDOR DEL LOGO -->
-    <img src="/assets/img/Logo_AritMetricaMENTE_Ajustado.jpeg" alt="AritMetricaMENTE Logo" style="max-width: 280px; height: auto; margin-bottom: 20px;" onerror="this.style.display='none';">
-    
-    <h1 style="color: #0e387a; font-size: 2.4rem; margin-bottom: 15px; font-weight: 800; letter-spacing: -0.5px;">Psicología y Psicometría Basada en la Evidencia</h1>
-    
-    <p style="font-size: 1.15rem; max-width: 750px; margin: 0 auto; color: #475569; line-height: 1.6;">
-        Articulamos el rigor de la psicometría avanzada, la analítica de datos y la calidez del enfoque clínico cognitivo-conductual para ofrecer soluciones de evaluación de alta precisión.
-    </p>
+<!-- TRUCO CSS: Oculta el título y descripción por defecto de Cayman para que no se dupliquen con tu banner -->
+<style>
+    .page-header .project-name, 
+    .page-header .project-tagline {
+        display: none !important;
+    }
+    /* Reduce el espacio exagerado del encabezado de Cayman en la página de inicio */
+    .page-header {
+        padding: 2rem 1rem !important;
+        margin-bottom: 20px !important;
+    }
+</style>
+
+<!-- CONTENEDOR DEL BANNER PRINCIPAL (Sube tu archivo a esta ruta) -->
+<div style="width: 100%; text-align: center; margin-bottom: 40px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(30, 98, 212, 0.08); border: 1px solid #e2e8f0; background-color: #ffffff;">
+    <img src="/assets/img/Encabezado_Redes_AritMetricaMENTE.jpeg" alt="AritMetricaMENTE - Innovación en Psicología y Psicometría" style="width: 100%; height: auto; display: block; max-width: 1200px; margin: 0 auto;">
 </div>
 
 <!-- TÍTULO DE SECCIÓN -->
 <h2 style="text-align: center; color: #0e387a; margin-bottom: 35px; font-weight: 700; font-size: 1.8rem; position: relative;">
-    Nuestros Focos de Negocio
+    Nuestros Servicios
     <span style="display: block; width: 60px; height: 4px; background: #1e62d4; margin: 10px auto 0 auto; border-radius: 2px;"></span>
 </h2>
 
