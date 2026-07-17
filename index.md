@@ -94,7 +94,7 @@ title: Inicio - AritMetricaMENTE
     <div class="service-card">
         <div>
             <div class="icon-container" style="background-color: #e0ecff;">
-                <img src="/assets/img/Isotipo_Servicio_Terapia_AritMetricaMENTE.jpeg" alt="Consulta" style="width: 36px; height: 36px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
+                <img src="/assets/img/Isotipo_Servicio_Terapia_AritMetricaMENTE.jpeg" alt="Consulta" style="width: 52px; height: 52px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
             </div>
             <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">1. Consulta Psicológica</h3>
             <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Procesos de intervención clínica individualizada bajo el modelo cognitivo-conductual, garantizando un enfoque riguroso y empático respaldado por la evidencia.</p>
@@ -110,7 +110,7 @@ title: Inicio - AritMetricaMENTE
     <div class="service-card-highlighted">
         <div>
             <div class="icon-container" style="background-color: #e0ecff;">
-                <img src="/assets/img/Isotipo_Servicio_Medicion_AritMetricaMENTE.jpeg" alt="PsicometrIA" style="width: 36px; height: 36px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
+                <img src="/assets/img/Isotipo_Servicio_Medicion_AritMetricaMENTE.jpeg" alt="PsicometrIA" style="width: 52px; height: 52px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
             </div>
             <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">2. PsicometrIA</h3>
             <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Desarrollamos metodologías y arquitecturas de vanguardia para el diseño de pruebas psicométricas y optimización de bancos de ítems a través de algoritmos de inteligencia artificial.</p>
@@ -126,7 +126,7 @@ title: Inicio - AritMetricaMENTE
     <div class="service-card">
         <div>
             <div class="icon-container" style="background-color: #e0ecff;">
-                <img src="/assets/img/Isotipo_Servicio_Investigacion_AritMetricaMENTE.jpeg" alt="Asesoría" style="width: 36px; height: 36px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
+                <img src="/assets/img/Isotipo_Servicio_Investigacion_AritMetricaMENTE.jpeg" alt="Asesoría" style="width: 52px; height: 52px; object-fit: contain;" onerror="this.parentNode.style.display='none';">
             </div>
             <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">3. Asesorías Metodológicas</h3>
             <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Brindamos consultoría experta en diseño de investigaciones, curación estructurada de bases de datos, análisis estadístico multivariado y modelamiento psicométrico complejo.</p>
