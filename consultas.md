@@ -35,7 +35,7 @@ title: Consulta Psicológica - AritMetricaMENTE
         Integramos evaluación estandarizada, formulación clínica rigurosa y modelos contemporáneos (TCC y Terapias Contextuales). Medimos de forma tangible tu evolución y bienestar a lo largo de todo el proceso.
     </p>
     <div style="margin-top: 25px;">
-        <a href="https://wa.me/573000000000?text=Hola,%20deseo%20solicitar%20información%20para%20agendar%20una%20consulta%20psicológica" target="_blank" style="display: inline-block; background-color: #ff9f0a; color: #0e387a; padding: 12px 28px; border-radius: 8px; font-weight: 800; text-decoration: none; box-shadow: 0 4px 12px rgba(255, 159, 10, 0.35); margin: 5px;">Agendar Cita por WhatsApp</a>
+        <a href="https://wa.me/573043553863?text=Hola,%20deseo%20solicitar%20información%20para%20agendar%20una%20consulta%20psicológica" target="_blank" style="display: inline-block; background-color: #ff9f0a; color: #0e387a; padding: 12px 28px; border-radius: 8px; font-weight: 800; text-decoration: none; box-shadow: 0 4px 12px rgba(255, 159, 10, 0.35); margin: 5px;">Agendar Cita por WhatsApp</a>
         <a href="mailto:consultas@aritmetricamente.com?subject=Solicitud%20de%20Valoracion%20Clinica" style="display: inline-block; background-color: #f0f6ff; color: #0e387a; border: 1px solid #cbd5e1; padding: 12px 24px; border-radius: 8px; font-weight: 700; text-decoration: none; margin: 5px;">Contactar por Correo</a>
     </div>
 </div>
@@ -134,7 +134,7 @@ title: Consulta Psicológica - AritMetricaMENTE
 <h2 style="color: #0e387a; font-size: 1.55rem; font-weight: 800; margin-bottom: 8px;">Áreas de Especialidad Clínica</h2>
 <p style="color: #475569; margin-bottom: 22px;">Haz clic en cada área para explorar los motivos de atención y problemáticas que abordamos en consulta:</p>
 
-<details class="specialty-card" open>
+<details class="specialty-card">
     <summary class="specialty-summary">
         <span>1. Psicología Clínica Infantil y Orientación a la Crianza</span>
         <span class="badge-time">50 min niño + 10-15 min cuidador</span>
@@ -251,8 +251,10 @@ title: Consulta Psicológica - AritMetricaMENTE
                 <td>4 a 6 sesiones</td>
                 <td>Intervención focalizada en motivos de consulta y conductas específicas.</td>
                 <td>
-                    <strong>4 ses:</strong> $340.000<br>
-                    <strong>6 ses:</strong> $500.000 <span class="badge-save">Ahorro</span>
+                    <strong>4 ses:</strong> $330.000<br>
+                    <span class="badge-save">Ahorra $10.000</span><br>
+                    <strong>6 ses:</strong> $485.000 <br>
+                    <span class="badge-save">Ahorra $15.000</span>
                 </td>
             </tr>
             <tr>
@@ -261,7 +263,9 @@ title: Consulta Psicológica - AritMetricaMENTE
                 <td>Intervención profunda en patrones crónicos o motivos de alta complejidad.</td>
                 <td>
                     <strong>8 ses:</strong> $660.000<br>
-                    <strong>10 ses:</strong> $800.000 <span class="badge-save">Ahorro</span>
+                    <span class="badge-save">Ahorra $20.000</span><br>
+                    <strong>10 ses:</strong> $800.000 <br>
+                    <span class="badge-save">Ahorra $50.000</span>
                 </td>
             </tr>
             <tr>
@@ -308,8 +312,10 @@ title: Consulta Psicológica - AritMetricaMENTE
                 <td>4 a 6 sesiones</td>
                 <td>Intervención relacional en patrones comunicativos y resolución de desacuerdos activos.</td>
                 <td>
-                    <strong>4 ses:</strong> $715.000<br>
-                    <strong>6 ses:</strong> $1.060.000 <span class="badge-save">Ahorro</span>
+                    <strong>4 ses:</strong> $710.000<br>
+                    <span class="badge-save">Ahorra $10.000</span><br>
+                    <strong>6 ses:</strong> $1.060.000 <br>
+                    <span class="badge-save">Ahorra $20.000</span><br>
                 </td>
             </tr>
             <tr>
@@ -318,7 +324,9 @@ title: Consulta Psicológica - AritMetricaMENTE
                 <td>Intervención extendida en heridas vinculares profundas, desconfianza o redefinición conyugal.</td>
                 <td>
                     <strong>8 ses:</strong> $1.390.000<br>
-                    <strong>12 ses:</strong> $2.040.000 <span class="badge-save">Ahorro</span>
+                    <span class="badge-save">Ahorra $50.000</span><br>
+                    <strong>12 ses:</strong> $2.040.000 <br>
+                    <span class="badge-save">Ahorra $120.000</span><br>
                 </td>
             </tr>
             <tr>
@@ -363,7 +371,7 @@ title: Consulta Psicológica - AritMetricaMENTE
         Agenda tu valoración inicial o consúltanos cualquier duda sobre los programas terapéuticos.
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="https://wa.me/573000000000?text=Hola,%20quisiera%20agendar%20una%20sesión%20de%20evaluación%20clínica%20en%20AritMétricaMENTE" target="_blank" style="display: inline-block; background-color: #ff9f0a; color: #0e387a; padding: 14px 30px; text-decoration: none; border-radius: 8px; font-weight: 800; font-size: 1rem; box-shadow: 0 4px 15px rgba(255, 159, 10, 0.4);">
+        <a href="https://wa.me/573043553863?text=Hola,%20quisiera%20agendar%20una%20sesión%20de%20evaluación%20clínica%20en%20AritMétricaMENTE" target="_blank" style="display: inline-block; background-color: #ff9f0a; color: #0e387a; padding: 14px 30px; text-decoration: none; border-radius: 8px; font-weight: 800; font-size: 1rem; box-shadow: 0 4px 15px rgba(255, 159, 10, 0.4);">
             Agendar por WhatsApp
         </a>
         <a href="mailto:consultas@aritmetricamente.com?subject=Solicitud%20de%20Valoracion%20Clinica" style="display: inline-block; background-color: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.4); padding: 14px 30px; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 1rem;">
