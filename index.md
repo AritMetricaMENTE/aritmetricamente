@@ -21,6 +21,13 @@ title: Inicio - AritMetricaMENTE
     <img src="/assets/img/Encabezado_Redes_AritMetricaMENTE.jpeg" alt="AritMetricaMENTE - Innovación en Psicología y Psicometría" style="width: 100%; height: auto; display: block; max-width: 1200px; margin: 0 auto;">
 </div>
 
+<!-- ENLACE A QUIÉNES SOMOS EN EL INDEX -->
+<div style="text-align: center; margin-top: -20px; margin-bottom: 35px;">
+    <a href="/nosotros.html" style="color: #1e62d4; font-weight: 700; text-decoration: none; background: #f0f6ff; padding: 8px 18px; border-radius: 20px; border: 1px solid #dbeafe; font-size: 0.95rem;">
+        Conocenos y Nuestros Campos de Experticia &rarr;
+    </a>
+</div>
+
 <!-- TÍTULO DE SECCIÓN -->
 <h2 style="text-align: center; color: #0e387a; margin-bottom: 35px; font-weight: 700; font-size: 1.8rem; position: relative;">
     Nuestros Servicios
