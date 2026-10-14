@@ -134,7 +134,7 @@ title: Inicio - AritMetricaMENTE
                 <img src="/assets/img/Isotipo_Servicio_Investigacion_AritMetricaMENTE.jpeg" alt="Asesoría" style="width: 62px; height: 62px; object-fit: contain; border-radius: 50%;" onerror="this.parentNode.style.display='none';">
             </div>
             <h3 style="margin-top: 0; color: #0e387a; font-size: 1.25rem; font-weight: 700; margin-bottom: 12px;">3. Asesorías Metodológicas</h3>
-            <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Brindamos consultoría experta en diseño de investigaciones, curación estructurada de bases de datos, análisis estadístico multivariado y modelamiento psicométrico complejo.</p>
+            <p style="color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0;">Brindamos consultoría experta en diseño de investigaciones, recolección y procesamiento de datos, análisis estadístico univariado y multivariado, y análisis psicométrico complejo.</p>
         </div>
         <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
             <a href="/asesorias.html" style="color: #1e62d4; font-weight: bold; text-decoration: none; font-size: 0.9rem;">Saber más &rarr;</a>
